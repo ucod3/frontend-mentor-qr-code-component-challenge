@@ -8,7 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/QR_code%20component_screeshot_mobile.jpeg)
+![Desktop](./images/QR_code%20component_screeshot_desktop.png)
+![Mobile](./images/QR_code%20component_screeshot_mobile.png)
 
 ### Links
 
