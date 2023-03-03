@@ -26,6 +26,6 @@ This is a solution to the <a href="https://www.frontendmentor.io/challenges/qr-c
 
 ### Useful resources
 
--[CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout" target="\_blank)
+-[CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout){target="\_blank}
 
 - <a href="https://html.spec.whatwg.org/" target="_blank">HTML Living Standard</a>
