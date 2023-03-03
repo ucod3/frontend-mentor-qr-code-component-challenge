@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Live Site URL: [Live Demo](https://ucod3.github.io/frontend-mentor-qr-code-component-challenge/){:target="\_blank"}
-- <a href="[url](https://ucod3.github.io/frontend-mentor-qr-code-component-challenge/)" target="_blank">Live Site URL</a>
+- <a href="https://ucod3.github.io/frontend-mentor-qr-code-component-challenge/" target="_blank">Live Site URL</a>
 - Solution URL: [GitHub Repository](https://github.com/ucod3/frontend-mentor-qr-code-component-challenge){:target="\_blank"}
 
 ### Built with
@@ -22,6 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
+-
 - Mobile-first workflow
 
 ### Useful resources
