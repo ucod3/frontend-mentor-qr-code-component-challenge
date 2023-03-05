@@ -43,12 +43,9 @@ img {
   color: var(--primary-color);
 }
 
-.card,
-.attribution {
-  background-color: var(--bg-white);
-}
-
 .card {
+  background-color: var(--bg-white);
+
   padding: 1.6em 1.6em 2.1em 1.6em;
   border-radius: 2em;
   box-shadow: 0 2.5em 2.5em rgba(0, 0, 0, 0.0476518);
