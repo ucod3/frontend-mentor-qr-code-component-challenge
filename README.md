@@ -25,4 +25,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [HTML Living Standard](https://html.spec.whatwg.org/)
+- [HTML Living Standard](https://html.spec.whatwg.org/) - This is a great resource for learning HTML. -[Screely](https://screely.com/) - This is a great tool to create mockups for your projects for desktop. -[MockuPhone](https://mockuphone.com/) - This is a great tool to create mockups for your projects for desktop and mobile.
